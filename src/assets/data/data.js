@@ -26,8 +26,8 @@ export const data = {
     marriage: {
       year: "2026",
       month: "Juni",
-      date: "8",
-      day: "Senin",
+      date: "7",
+      day: "Ahad",
       hours: {
         start: "19.00",
         finish: "22.00",
@@ -48,7 +48,7 @@ export const data = {
   },
 
   link: {
-    calendar: "https://calendar.app.google/M6QjzJmL52uR5ooN7",
+    calendar: "https://calendar.app.google/WsWycxovsVjnJANz6",
     map: "https://maps.app.goo.gl/ZhNzWJrzyXfF2iGy7",
   },
 
