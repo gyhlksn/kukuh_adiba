@@ -13,7 +13,7 @@ export const data = {
       id: 2,
       name: "Adibah Aqilah",
       nickname: "Adiba",
-      child: "Putri pertama",
+      child: "Putri kedua",
       father: "M. Zaenal Asikin",
       mother: "Farchati Dewi",
       image: "./src/assets/images/cewe.png",
